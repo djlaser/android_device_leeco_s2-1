@@ -294,12 +294,6 @@ on post-fs-data
     mkdir /data/misc/fm 0770 system system
     chmod 0770 /data/misc/fm
 
-service perfd /system/vendor/bin/perfd
-    class main
-    user root
-    disabled
-    socket perfd seqpacket 0666 root system
-
 service qfintverify /sbin/qfintverify
     user root
     class core
