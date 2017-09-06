@@ -10,7 +10,7 @@ CHIPSET | Qualcomm MSM8976 Snapdragon 652
 GPU     | Adreno 510
 Memory  | 3GB
 Shipped Android Version | 6.0.1
-Storage | 32GB
+Storage | 32GB/64GB
 Battery | 3000 mAh
 Weigth | 153 g (5.40 oz)
 Dimensions | 151.1 x 74.2 x 7.5 mm (5.95 x 2.92 x 0.30 in)
